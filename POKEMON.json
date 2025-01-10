@@ -1,0 +1,140 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "types": ["Planta", "Veneno"],
+      "weight": "6.9 kg",
+      "height": "0.7 m",
+      "stats": {
+        "speed": 3,
+        "strength": 3,
+        "accuracy": 4,
+        "resistance": 4
+      },
+      "moves": [
+        {
+          "name": "Tackle",
+          "description": "Un ataque físico básico.",
+          "power": 40,
+          "contact": true
+        },
+        {
+          "name": "Growl",
+          "description": "Reduce el ataque del enemigo.",
+          "power": null,
+          "contact": false
+        }
+      ],
+      "image": "https://www.wikidex.net/wiki/Bulbasaur",
+      "evolutions": [
+        {
+          "id": 2,
+          "level": 16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "types": ["Planta", "Veneno"],
+      "weight": "13.0 kg",
+      "height": "1.0 m",
+      "stats": {
+        "speed": 4,
+        "strength": 4,
+        "accuracy": 5,
+        "resistance": 5
+      },
+      "moves": [
+        {
+          "name": "Razor Leaf",
+          "description": "Ataque con hojas afiladas.",
+          "power": 55,
+          "contact": false
+        },
+        {
+          "name": "Poison Powder",
+          "description": "Envenena al enemigo.",
+          "power": null,
+          "contact": false
+        }
+      ],
+      "image": "https://www.wikidex.net/wiki/Ivysaur",
+      "evolutions": [
+        {
+          "id": 3,
+          "level": 32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charmander",
+      "types": ["Fuego"],
+      "weight": "8.5 kg",
+      "height": "0.6 m",
+      "stats": {
+        "speed": 4,
+        "strength": 4,
+        "accuracy": 5,
+        "resistance": 3
+      },
+      "moves": [
+        {
+          "name": "Ember",
+          "description": "Un ataque de fuego básico.",
+          "power": 40,
+          "contact": false
+        },
+        {
+          "name": "Scratch",
+          "description": "Un ataque físico básico.",
+          "power": 40,
+          "contact": true
+        }
+      ],
+      "image": "https://www.wikidex.net/wiki/Charmander",
+      "evolutions": [
+        {
+          "id": 4,
+          "level": 16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Squirtle",
+      "types": ["Agua"],
+      "weight": "9.0 kg",
+      "height": "0.5 m",
+      "stats": {
+        "speed": 3,
+        "strength": 3,
+        "accuracy": 4,
+        "resistance": 5
+      },
+      "moves": [
+        {
+          "name": "Water Gun",
+          "description": "Un ataque de agua básico.",
+          "power": 40,
+          "contact": false
+        },
+        {
+          "name": "Tackle",
+          "description": "Un ataque físico básico.",
+          "power": 40,
+          "contact": true
+        }
+      ],
+      "image": "https://www.wikidex.net/wiki/Squirtle",
+      "evolutions": [
+        {
+          "id": 5,
+          "level": 16
+        }
+      ]
+    }
+  ]
+}

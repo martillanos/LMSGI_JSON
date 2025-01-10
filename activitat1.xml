@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Catàleg de productes d'una botiga online especialitzada en roba i accessoris de bàsquet -->
+<basquet>
+    <roba categoria="unisex">
+        <!-- Secció de samarretes -->
+        <producte marca="Nike">
+            <codi>13304109</codi>
+            <nom>Samarreta Nike Icon Swingman de Los Angeles Lakers - Personalitzada</nom>
+            <descripcio>Cada franquícia té els seus veritables colors, una identitat inconfusible que la distingeix de la resta de la lliga. Inspirada en la que usen els professionals a la pista.</descripcio>
+            <preu>110€</preu>
+            <categoria>Samarreta de tirants</categoria>
+            <disponibilitat>En estoc</disponibilitat>
+            <imatge>https://www.basketballemotion.com/imagesarticulos/215532/grandes/camiseta-nike-los-angeles-lakers-icon-edition-lebron-james-2023-2024-amarillo-0.webp</imatge>
+        </producte>
+        <producte marca="Fanatics Branded">
+            <codi>12092066</codi>
+            <nom>Oklahoma City Thunder Fanatics Branded Splatter Samarreta gràfica</nom>
+            <descripcio>Una peça clàssica reinventada amb un estil del bàsquet. Perfecte per a mostrar suport al teu equip preferit.</descripcio>
+            <preu>20€</preu>
+            <categoria>Samarreta de màniga curta</categoria>
+            <disponibilitat>Esgotada</disponibilitat>
+            <imatge>https://is.gd/oj8vSh</imatge>
+        </producte>
+        
+        <!-- Secció de pantalons -->
+        <producte marca="Miami Heat">
+            <codi>202410494</codi>
+            <nom>Jogger amb logo principal de Miami Heat</nom>
+            <descripcio>Aconsegueix una peça essencial per al teu vestuari amb estil. Perfectes per a seguidors acèrrims de la NBA.</descripcio>
+            <preu>50€</preu>
+            <categoria>Pantalons llargs</categoria>
+            <disponibilitat>En estoc</disponibilitat>
+            <imatge>https://is.gd/RQ1gdX</imatge>
+        </producte>
+        <producte marca="Nike">
+            <codi>201315965</codi>
+            <nom>Pantaló curt Boston Celtics Nike City Edition Swingman 2024</nom>
+            <descripcio>Pantalons curts oficials dissenyats per Nike amb tecnologia Dri-FIT per a la transpirabilitat. Una peça essencial per a aficionats i esportistes.</descripcio>
+            <preu>70€</preu>
+            <categoria>Pantalons curts</categoria>
+            <disponibilitat>En estoc</disponibilitat>
+            <imatge>https://is.gd/l4zImL</imatge>
+        </producte>
+        
+        <!-- Secció de gorres -->
+        <producte marca="New Era">
+            <codi>201665057</codi>
+            <nom>Gorra Los Angeles Lakers New Era NBA City Edition 2024 9FIFTY</nom>
+            <descripcio>Llueix el teu equip allà on vagis. Aquesta gorra és perfecta per portar-la en qualsevol ocasió i et permet lluir l'emblema del teu equip favorit allà on vagis.</descripcio>
+            <preu>40€</preu>
+            <categoria>Gorra</categoria>
+            <disponibilitat>En estoc</disponibilitat>
+            <imatge>https://images.footballfanatics.com/los-angeles-lakers/los-angeles-lakers-new-era-nba-city-edition-2024-9fifty-cap-unisex_ss5_p-201665057+u-xzyvqctrin7gezyjoprb+v-gfqm9enachpgp9r4up6m.jpg?_hv=2</imatge>
+        </producte>
+    </roba>
+</basquet>
